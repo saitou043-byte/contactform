@@ -26,7 +26,7 @@ $stmt->execute();
 
 <body>
 
-    <h1>お問い合わせフォーム<h1>
+    <h1>お問い合わせフォーム</h1>
 
     <div class="confirm">
         <p>
